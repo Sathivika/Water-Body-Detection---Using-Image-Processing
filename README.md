@@ -18,7 +18,7 @@ The detection pipeline includes:
 
 <p align="center"><b>Figure 1: Original RGB Image</b></p>
 <p align="center">
-  <img src="s1.png" width="500">
+  <img src="s1.png" width="700">
 </p>
 
 <p align="center"><b>Figure 2: Grayscale Image</b></p>
