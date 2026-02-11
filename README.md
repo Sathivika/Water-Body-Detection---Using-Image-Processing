@@ -17,7 +17,7 @@ The detection pipeline includes:
 -Morphological refinement
 
 
-![Original Image](images/original.png)
+![Original Image](s1.png)
 
 ![Grayscale Image](images/grayscale.png)
 
