@@ -23,27 +23,27 @@ The detection pipeline includes:
 
 <p align="center"><b>Figure 2: Grayscale Image</b></p>
 <p align="center">
-  <img src="s2.png" width="500">
+  <img src="s2.png" width="700">
 </p>
 
 <p align="center"><b>Figure 3: Smoothed Image</b></p>
 <p align="center">
-  <img src="s3.png" width="500">
+  <img src="s3.png" width="700">
 </p>
 
 <p align="center"><b>Figure 4: Binary Image</b></p>
 <p align="center">
-  <img src="s4.png" width="500">
+  <img src="s4.png" width="700">
 </p>
 
 <p align="center"><b>Figure 5: Cleaned Water Mask Image</b></p>
 <p align="center">
-  <img src="s5.png" width="500">
+  <img src="s5.png" width="700">
 </p>
 
 <p align="center"><b>Figure 6: Detected Water Bodies</b></p>
 <p align="center">
-  <img src="s6.png" width="500">
+  <img src="s6.png" width="700">
 </p>
 
 **The final output highlights water regions clearly, enabling easier monitoring and analysis.**
