@@ -16,14 +16,24 @@ The detection pipeline includes:
 -Threshold-based segmentation
 -Morphological refinement
 
+**Figure 1: Original RGB Image**
+<img src="s1.png" width="500" height="300">
 
-![Original Image](s1.png)
+**Figure 2: GrayScale Image**
+<img src="s2.png" width="500" height="300">
 
-![Grayscale Image](images/grayscale.png)
+**Figure 3:Smoothed Image**
+<img src="s3.png" width="500" height="300">
 
-![Binary Image](images/binary.png)
+**Figure 4: Binary Image**
+<img src="s4.png" width="500" height="300">
 
-![Detected Water Body](images/output.png)
+**Figure 5:Cleaned Water Mask Image**
+<img src="s5.png" width="500" height="300">
+
+**Figure 6: Detected Water Bodies**
+<img src="s6.png" width="500" height="300">
+
 
 
 The final output highlights water regions clearly, enabling easier monitoring and analysis.
